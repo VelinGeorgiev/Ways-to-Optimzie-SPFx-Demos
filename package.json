@@ -23,7 +23,8 @@
     "office-ui-fabric-react": "6.214.0",
     "react": "16.8.5",
     "react-dom": "16.8.5",
-    "@material-ui/core": "4.11.0"
+    "@material-ui/core": "4.11.0",
+    "@fluentui/react": "7.128.1"
   },
   "devDependencies": {
     "@microsoft/rush-stack-compiler-3.3": "0.3.5",
